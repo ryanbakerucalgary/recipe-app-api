@@ -1,2 +1,3 @@
-# recipe-app-api
-Recipe API Project
+# equusense-djangoapi
+Django API for Equusense Project
+
